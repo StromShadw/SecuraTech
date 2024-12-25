@@ -19,7 +19,7 @@ const HeaderSevenCloned = () => {
             <Container >
                 <div className="main-header-seven__inner">
                     <div className="main-header-seven__logo">
-                        <Link href='/home1'>
+                        <Link href='/'>
                             <Image
                                 src={logo6}
                                 alt='Tolak HTML'

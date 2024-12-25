@@ -7,7 +7,7 @@ const featureOneData = {
     items: [
         {
             id: 1,
-            icon: "icon-social-care",
+            icon: "icon-solutions",
             title: "Optimising Model Need",
             text: "Based on project requirement, we help you in optimising the best business model to meet your business-centric needs.",
             shape: shape1
@@ -15,7 +15,7 @@ const featureOneData = {
         },
         {
             id: 2,
-            icon: "icon-note-pad",
+            icon: "icon-cooperation",
             title: "Dedicated Resources",
             text: "With this model you get to choose the designer or developer from a pool of talented resources and make your own team that suits you best.",
             shape: shape2

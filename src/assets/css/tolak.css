@@ -509,7 +509,7 @@ h6 {
 }
 
 .tolak-btn span {
-  background: var(--tolak-black, #051d1f);
+  background: var(--tolak-darkblue, #010433);
   border-radius: 50%;
   display: block;
   height: 0;
@@ -552,7 +552,7 @@ h6 {
 }
 
 .tolak-btn-rtl span {
-  background: var(--tolak-black, #051d1f);
+  background: var(--tolak-darkblue, #010433);
   border-radius: 50%;
   display: block;
   height: 0;
@@ -4851,7 +4851,7 @@ h6 {
 .main-header__right {
   display: flex;
   align-items: center;
-  border-left: 1px solid var(--tolak-border-color, #dddddd);
+  /* border-left: 1px solid var(--tolak-border-color, #dddddd); */
   margin-left: 5px;
   padding: 9.5px 0;
 }
@@ -4884,9 +4884,9 @@ h6 {
 }
 
 @media (max-width: 767px) {
-  .main-header__toggler {
+  /* .main-header__toggler {
     display: none;
-  }
+  } */
 }
 
 .main-header__toggler span {

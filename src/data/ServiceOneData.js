@@ -37,7 +37,7 @@ const serviceOneData = {
             image: image2,
             icon: "icon-cooperation",
             title: "Web Development",
-            text: "Our web development services\ninclude everything from building custom websites\nto developing complex web applications...",
+            text: "Our web development services include everything from building custom websites to developing complex web applications, ensuring a seamless user experience and robust functionality.",
             href: "business-growth"
         },
        

@@ -94,6 +94,7 @@ const footerData = {
   shapeTwo,
   footerAbout,
   // posts,
+  
   postsSix,
   aboutTwoText: "Will give you a complete account the system, and expound the teachings of the great explorer the truth, the master-builder because ...",
   widgetText:

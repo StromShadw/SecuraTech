@@ -31,7 +31,7 @@ const HeaderCloned = ({ dark, rtl }) => {
       <Container fluid>
         <div className='main-header__inner'>
           <div className='main-header__logo'>
-            <Link href='/home1'>
+            <Link href='/'>
               <Image
                 src={logo_light}
                 alt='Tolak HTML'

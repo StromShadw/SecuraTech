@@ -10,10 +10,8 @@ const useScrollUp = (scrollSize = 0) => {
 
         if (currentScrollTop > scrollSize) {
             if (currentScrollTop > lastScrollTop.current) {
-
                 setScrollTop(false);
             } else {
-
                 setScrollTop(true);
             }
         } else {

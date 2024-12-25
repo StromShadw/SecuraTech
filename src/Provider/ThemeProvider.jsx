@@ -18,23 +18,21 @@ const ThemeProvider = ({ children }) => {
       value === undefined
         ? !preMenuStatus
         : typeof value === "boolean"
-          ? value
-          : !!value
+        ? value
+        : !!value
     );
   };
   const toggleMegaMenu = (value) => {
-
     setOpenMegaMenu((preMenuStatus) =>
       value === undefined
         ? !preMenuStatus
         : typeof value === "boolean"
-          ? value
-          : !!value
+        ? value
+        : !!value
     );
 
     document.body.classList.toggle("megamenu-popup-active", !openMegaMenu);
   };
-
 
   const toggleSearch = () => {
     setOpenSearch((preSearch) => !preSearch);
@@ -70,7 +68,7 @@ const ThemeProvider = ({ children }) => {
     openSidebar,
     setOpenSidebar,
     toggleSidebar,
-    setOpenMegaMenu
+    setOpenMegaMenu,
   };
   return <context.Provider value={value}>{children}</context.Provider>;
 };
