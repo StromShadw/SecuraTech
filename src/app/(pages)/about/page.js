@@ -2,10 +2,10 @@
 import AboutThree from '@/components/AboutThree/AboutThree';
 import CtaOne from '@/components/CtaOne/CtaOne';
 import FaqOne from '@/components/FaqOne/FaqOne';
-import FooterThree from '@/components/FooterThree/FooterThree';
+import Footer from '@/components/Footer/Footer';
 import FunFactTwo from '@/components/FunFactTwo/FunFactTwo';
-import HeaderInner from '@/components/HeaderInner/HeaderInner';
-import HeaderInnerCloned from '@/components/HeaderInner/HeaderInnerCloned';
+import HeaderCloned from "@/components/Header/HeaderCloned";
+import Header from "@/components/Header/Header";
 import Layout from '@/components/Layout/Layout';
 import MailTwo from '@/components/MailTwo/MailTwo';
 import PageHeader from '@/components/PageHeader/PageHeader';
@@ -15,16 +15,14 @@ import TestimonialsTwo from '@/components/TestimonialsTwo/TestimonialsTwo';
 import React from 'react';
 
 export const metadata = {
-    title: "About || Tolak || NextJS Template For It Solution & Business",
-    description:
-        "Tolak is a modern NextJS Template for Business, It Solution, Corporate, Agency, Portfolio shops. The template perfectly fits Beauty Spa, Salon, and Wellness Treatments websites and businesses.",
+    title: "About",
 };
 
 const page = () => {
     return (
         <Layout>
-            <HeaderInner />
-            <HeaderInnerCloned />
+            <Header />
+            <HeaderCloned />
             <PageHeader title="About Page" subTitle="About" />
             <AboutThree />
             <FunFactTwo />
@@ -34,7 +32,7 @@ const page = () => {
             <FaqOne />
             <TeamOne />
             <MailTwo />
-            <FooterThree />
+            <Footer/>
         </Layout>
     );
 };
