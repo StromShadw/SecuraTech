@@ -6,28 +6,22 @@ const funFactTwoData =
             id: 1,
             icon: "icon-briefing",
             text: "Completed Project",
-            count: "426",
+            count: "100",
 
         },
         {
             id: 2,
             icon: "icon-ancestors",
             text: "Happy Clients",
-            count: "1425",
+            count: "50",
 
         },
         {
             id: 3,
             icon: "icon-admin",
-            text: "Business Partners",
-            count: "750",
+            text: "Years of Experience",
+            count: "10",
 
-        },
-        {
-            id: 4,
-            icon: "icon-trophy",
-            text: "Award Win",
-            count: "884",
         },
     ]
 

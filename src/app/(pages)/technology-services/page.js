@@ -1,5 +1,5 @@
 
-import FooterThree from '@/components/FooterThree/FooterThree';
+import Footer from '@/components/Footer/Footer';
 import HeaderInner from '@/components/HeaderInner/HeaderInner';
 import HeaderInnerCloned from '@/components/HeaderInner/HeaderInnerCloned';
 import Layout from '@/components/Layout/Layout';
@@ -9,9 +9,7 @@ import ServiceDetails from '@/components/ServiceDetails/ServiceDetails';
 import React from 'react';
 
 export const metadata = {
-    title: "Technology Services || Tolak || NextJS Template For It Solution & Business",
-    description:
-        "Tolak is a modern NextJS Template for Business, It Solution, Corporate, Agency, Portfolio shops. The template perfectly fits Beauty Spa, Salon, and Wellness Treatments websites and businesses.",
+    title: "Technology Services || Secura Tech"
 };
 
 const page = () => {
@@ -22,7 +20,7 @@ const page = () => {
             <PageHeader title="Technology Service" subTitle="Service Details" />
             <ServiceDetails />
             <MailTwo />
-            <FooterThree />
+            <Footer />
         </Layout>
     );
 };

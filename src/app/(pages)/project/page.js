@@ -1,27 +1,27 @@
-import FooterThree from "@/components/FooterThree/FooterThree";
-import HeaderInner from "@/components/HeaderInner/HeaderInner";
-import HeaderInnerCloned from "@/components/HeaderInner/HeaderInnerCloned";
+import Footer from "@/components/Footer/Footer";
+import HeaderCloned from "@/components/Header/HeaderCloned";
+import Header from "@/components/Header/Header";
 import Layout from "@/components/Layout/Layout";
 import MailTwo from "@/components/MailTwo/MailTwo";
 import PageHeader from "@/components/PageHeader/PageHeader";
 import ProjectTwo from "@/components/ProjectsTwo/ProjectsTwo";
+import ProjectThree from "@/components/ProjectThree/ProjectThree";
+import ProjectOne from "@/components/ProjectOne/ProjectOne.jsx";
 import React from "react";
 
 export const metadata = {
-  title: "Project Page || Tolak || NextJS Template For It Solution & Business",
-  description:
-    "Tolak is a modern NextJS Template for Business, It Solution, Corporate, Agency, Portfolio shops. The template perfectly fits Beauty Spa, Salon, and Wellness Treatments websites and businesses.",
+  title: "Project Page || SecuraTech",
 };
 
 const projectPage = () => {
   return (
     <Layout >
-      <HeaderInner />
-      <HeaderInnerCloned />
+      <Header />
+      <HeaderCloned />
       <PageHeader title='Project Page' subTitle='Project' />
       <ProjectTwo />
       <MailTwo />
-      <FooterThree />
+      <Footer />
     </Layout>
   );
 };

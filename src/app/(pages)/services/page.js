@@ -1,11 +1,11 @@
 import React from 'react';
-import FooterThree from '@/components/FooterThree/FooterThree';
-import HeaderInner from '@/components/HeaderInner/HeaderInner';
+import Footer from '@/components/Footer/Footer';
+import Header from '@/components/Header/Header';
 import Layout from '@/components/Layout/Layout';
 import MailTwo from '@/components/MailTwo/MailTwo';
 import PageHeader from '@/components/PageHeader/PageHeader';
 import ServiceOne from '@/components/ServiceOne/ServiceOne';
-import HeaderInnerCloned from '@/components/HeaderInner/HeaderInnerCloned';
+import HeaderCloned from '@/components/Header/HeaderCloned';
 
 
 export const metadata = {
@@ -17,12 +17,12 @@ export const metadata = {
 const page = () => {
     return (
         <Layout>
-            <HeaderInner />
-            <HeaderInnerCloned />
+            <Header />
+            <HeaderCloned />
             <PageHeader title="Service Page" subTitle="Services" />
             <ServiceOne titleTwo="two" />
             <MailTwo />
-            <FooterThree />
+            <Footer />
         </Layout>
     );
 };

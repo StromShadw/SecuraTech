@@ -5,7 +5,7 @@ import React from "react";
 import ProjectDetailsFaq from "@/components/ProjectDetailsFaq/ProjectDetailsFaq";
 import MailTwo from "@/components/MailTwo/MailTwo";
 import HeaderInner from "@/components/HeaderInner/HeaderInner";
-import FooterThree from "@/components/FooterThree/FooterThree";
+import Footer from "@/components/Footer/Footer";
 import HeaderInnerCloned from "@/components/HeaderInner/HeaderInnerCloned";
 
 export const metadata = {
@@ -23,7 +23,7 @@ const page = () => {
       <ProjectDetails />
       <ProjectDetailsFaq />
       <MailTwo />
-      <FooterThree />
+      <Footer />
     </Layout>
   );
 };

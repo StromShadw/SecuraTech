@@ -40,7 +40,7 @@ const ProjectTwo = () => {
           </h6>
           <h3 className='sec-title__title'>{title}</h3>
         </div>
-        <ul className='list-unstyled post-filter project-two__filter'>
+        {/* <ul className='list-unstyled post-filter project-two__filter'>
           {filterCategories.map(({ name, count, filterClass }) => (
             <li
               key={name}
@@ -52,7 +52,7 @@ const ProjectTwo = () => {
               <span className='count'>({getCount(filterClass)})</span>
             </li>
           ))}
-        </ul>
+        </ul> */}
         <Masonry
           className='row  filter-layout'
           options={masonryOptions}

@@ -6,7 +6,6 @@ import Link from "next/link";
 const PageHeader = ({ title, subTitle }) => {
   return (
     <section className='page-header'>
-      <div className='page-header__bg'></div>
       <div className='page-header__shape'></div>
       <div className='page-header__shape-two'></div>
 
@@ -27,7 +26,7 @@ const PageHeader = ({ title, subTitle }) => {
           </div>
           <div className='col-md-5'>
             <div className='page-header__layer wow fadeInUp' data-aos='fade-up' data-aos-delay='100'>
-              <Image src={bannerLayer} alt='tolak' />
+              <Image src={bannerLayer} alt='About' />
               <div className='page-header__layer__shape'></div>
               <div
                 className='page-header__layer__bg wow fadeInRight' data-aos='fade-left'

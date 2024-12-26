@@ -1,5 +1,5 @@
 
-import FooterThree from '@/components/FooterThree/FooterThree';
+import Footer from '@/components/Footer/Footer';
 import HeaderInner from '@/components/HeaderInner/HeaderInner';
 import HeaderInnerCloned from '@/components/HeaderInner/HeaderInnerCloned';
 import Layout from '@/components/Layout/Layout';
@@ -22,7 +22,7 @@ const page = () => {
             <PageHeader title="Service Carousel" subTitle="Services" />
             <ServiceOneCarousel />
             <MailTwo />
-            <FooterThree />
+            <Footer />
 
         </Layout>
     );

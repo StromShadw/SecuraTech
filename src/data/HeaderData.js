@@ -92,9 +92,14 @@ const navItems = [
     href: "/",
   },
   {
+    id: 2,
+    name: "About",
+    href: "/about",
+  },
+  {
     id: 4,
     name: "Services",
-    href: "#",
+    href: "/services",
     subNavItems: [
       { id: 1, name: "Web Development", href: "#" },
       { id: 2, name: "Mobile Application Devlopement", href: "#" },
@@ -107,17 +112,13 @@ const navItems = [
   {
     id: 3,
     name: "Portfolio",
-    href: "#",
+    href: "/project",
   },
-  {
-    id: 2,
-    name: "About",
-    href: "#",
-  },
+  
   {
     id: 5,
     name: "Contact Us",
-    href: "#",
+    href: "/contact",
   },
   // {
   //   id: 2,

@@ -16,17 +16,16 @@ const serviceDetailsData =
             sidebar: {
                 title: "All Services:",
                 navItems: [
-                    { id: 1, name: "Business of Growth", href: "/business-growth" },
-                    { id: 2, name: "Solution to Business", href: "/business-solution" },
-                    { id: 3, name: "Marketing of Solution", href: "/marketing-solution" },
-                    { id: 4, name: "Technology Services", href: "/technology-services" },
-                    { id: 5, name: "Marketing Business", href: "/business-marketing" },
-                    { id: 6, name: "Support of Business", href: "/business-support" },
+                    { id: 1, name: "Full Stack Development", href: "/business-growth" },
+                    { id: 2, name: "Web Development", href: "/business-solution" },
+                    { id: 3, name: "Web Designing", href: "/marketing-solution" },
+                    { id: 4, name: "CRM Systems", href: "/technology-services" },
+                    { id: 5, name: "ERP Systems", href: "/business-marketing" },
                 ],
             },
             content: [
                 "will reenergize your ome and enhance your life. From everyday housekeeping to routine cleanings, our professional this to It uses a dictionary of 2200 Latin d with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonableis therefore always free from repetition, injected humour, anything embarrassing hidden in the middle of text. reenergize your ome and enhance your life. From everyday housekeeping to routine cleanings, our uses a dictionary of 2200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.",
-                "will reenergize your ome and enhance your life. From everyday housekeeping to routine cleanings, our professional this to It uses a dictionary of 2200 Latin d with a handful of model sentence structures.",
+                "will reenergize your ome and enhance your life.",
             ],
             skills: [
                 {
@@ -70,12 +69,11 @@ const serviceDetailsData =
             sidebar: {
                 title: "All Services:",
                 navItems: [
-                    { id: 1, name: "Business of Growth", href: "/business-growth" },
-                    { id: 2, name: "Solution to Business", href: "/business-solution" },
-                    { id: 3, name: "Marketing of Solution", href: "/marketing-solution" },
-                    { id: 4, name: "Technology Services", href: "/technology-services" },
-                    { id: 5, name: "Marketing Business", href: "/business-marketing" },
-                    { id: 6, name: "Support of Business", href: "/business-support" },
+                    { id: 1, name: "Full Stack Development", href: "/business-growth" },
+                    { id: 2, name: "Web Development", href: "/business-solution" },
+                    { id: 3, name: "Web Designing", href: "/marketing-solution" },
+                    { id: 4, name: "CRM Systems", href: "/technology-services" },
+                    { id: 5, name: "ERP Systems", href: "/business-marketing" },
                 ],
             },
             content: [
@@ -124,12 +122,11 @@ const serviceDetailsData =
             sidebar: {
                 title: "All Services:",
                 navItems: [
-                    { id: 1, name: "Business of Growth", href: "/business-growth" },
-                    { id: 2, name: "Solution to Business", href: "/business-solution" },
-                    { id: 3, name: "Marketing of Solution", href: "/marketing-solution" },
-                    { id: 4, name: "Technology Services", href: "/technology-services" },
-                    { id: 5, name: "Marketing Business", href: "/business-marketing" },
-                    { id: 6, name: "Support of Business", href: "/business-support" },
+                    { id: 1, name: "Full Stack Development", href: "/business-growth" },
+                    { id: 2, name: "Web Development", href: "/business-solution" },
+                    { id: 3, name: "Web Designing", href: "/marketing-solution" },
+                    { id: 4, name: "CRM Systems", href: "/technology-services" },
+                    { id: 5, name: "ERP Systems", href: "/business-marketing" },
                 ],
             },
             content: [
@@ -178,12 +175,11 @@ const serviceDetailsData =
             sidebar: {
                 title: "All Services:",
                 navItems: [
-                    { id: 1, name: "Business of Growth", href: "/business-growth" },
-                    { id: 2, name: "Solution to Business", href: "/business-solution" },
-                    { id: 3, name: "Marketing of Solution", href: "/marketing-solution" },
-                    { id: 4, name: "Technology Services", href: "/technology-services" },
-                    { id: 5, name: "Marketing Business", href: "/business-marketing" },
-                    { id: 6, name: "Support of Business", href: "/business-support" },
+                    { id: 1, name: "Full Stack Development", href: "/business-growth" },
+                    { id: 2, name: "Web Development", href: "/business-solution" },
+                    { id: 3, name: "Web Designing", href: "/marketing-solution" },
+                    { id: 4, name: "CRM Systems", href: "/technology-services" },
+                    { id: 5, name: "ERP Systems", href: "/business-marketing" },
                 ],
             },
             content: [
@@ -232,12 +228,11 @@ const serviceDetailsData =
             sidebar: {
                 title: "All Services:",
                 navItems: [
-                    { id: 1, name: "Business of Growth", href: "/business-growth" },
-                    { id: 2, name: "Solution to Business", href: "/business-solution" },
-                    { id: 3, name: "Marketing of Solution", href: "/marketing-solution" },
-                    { id: 4, name: "Technology Services", href: "/technology-services" },
-                    { id: 5, name: "Marketing Business", href: "/business-marketing" },
-                    { id: 6, name: "Support of Business", href: "/business-support" },
+                    { id: 1, name: "Full Stack Development", href: "/business-growth" },
+                    { id: 2, name: "Web Development", href: "/business-solution" },
+                    { id: 3, name: "Web Designing", href: "/marketing-solution" },
+                    { id: 4, name: "CRM Systems", href: "/technology-services" },
+                    { id: 5, name: "ERP Systems", href: "/business-marketing" },
                 ],
             },
             content: [
@@ -286,12 +281,11 @@ const serviceDetailsData =
             sidebar: {
                 title: "All Services:",
                 navItems: [
-                    { id: 1, name: "Business of Growth", href: "/business-growth" },
-                    { id: 2, name: "Solution to Business", href: "/business-solution" },
-                    { id: 3, name: "Marketing of Solution", href: "/marketing-solution" },
-                    { id: 4, name: "Technology Services", href: "/technology-services" },
-                    { id: 5, name: "Marketing Business", href: "/business-marketing" },
-                    { id: 6, name: "Support of Business", href: "/business-support" },
+                    { id: 1, name: "Full Stack Development", href: "/business-growth" },
+                    { id: 2, name: "Web Development", href: "/business-solution" },
+                    { id: 3, name: "Web Designing", href: "/marketing-solution" },
+                    { id: 4, name: "CRM Systems", href: "/technology-services" },
+                    { id: 5, name: "ERP Systems", href: "/business-marketing" },
                 ],
             },
             content: [
