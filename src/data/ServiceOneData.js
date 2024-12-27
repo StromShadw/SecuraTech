@@ -15,7 +15,7 @@ const serviceOneData = {
             icon: "icon-agency",
             title: "ERP Systems",
             text: "Enterprise Resource Planning (ERP) systems are integrated software platforms used by organizations to manage and automate various core business processes.",
-            href: "technology-services"
+            href: "erp-systems"
         },
         {
             id: 2,
@@ -23,7 +23,7 @@ const serviceOneData = {
             icon: "icon-ads-campaign",
             title: "Full Stack Development",
             text: "From front-end prototyping to a full spectrum of back-end services, we specialize in software development across a broad range of technologies.",
-            href: "business-solution"
+            href: "full-stack-development"
         },
         {
             id: 3,
@@ -31,14 +31,14 @@ const serviceOneData = {
             icon: "icon-headhunter",
             title: "Mobile Application Development",
             text: "We concentrate on creating mobile apps that are tailored to your company's and its consumer's needs..",
-            href: "marketing-solution"
+            href: "mobile-application-development"
         }, {
             id: 4,
             image: image2,
             icon: "icon-cooperation",
             title: "Web Development",
             text: "Our web development services include everything from building custom websites to developing complex web applications, ensuring a seamless user experience and robust functionality.",
-            href: "business-growth"
+            href: "web-development"
         },
        
         {
@@ -47,7 +47,7 @@ const serviceOneData = {
             icon: "icon-advertisig-agency",
             title: "CRM Systems",
             text: "Our Customer relationship management (CRM) Systems, Helps your company's interactions with current and potential customers, improvising relationships to grow your business.",
-            href: "business-marketing"
+            href: "crm-systems"
         },
         {
             id: 6,
@@ -55,7 +55,7 @@ const serviceOneData = {
             icon: "icon-management",
             title: "Web Designing",
             text: "Our web designing services include everything from planning, conceptualizing, and implementing the plan for designing a website in a way that is functional and offers a good user experience.",
-            href: "business-support"
+            href: "web-designing"
         }
     ]
 }

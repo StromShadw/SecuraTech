@@ -1,7 +1,7 @@
 
 import Footer from '@/components/Footer/Footer';
-import HeaderInner from '@/components/HeaderInner/HeaderInner';
-import HeaderInnerCloned from '@/components/HeaderInner/HeaderInnerCloned';
+import Header from '@/components/Header/Header';
+import HeaderCloned from '@/components/Header/HeaderCloned';
 import Layout from '@/components/Layout/Layout';
 import MailTwo from '@/components/MailTwo/MailTwo';
 import PageHeader from '@/components/PageHeader/PageHeader';
@@ -15,9 +15,9 @@ export const metadata = {
 const page = () => {
     return (
         <Layout>
-            <HeaderInner />
-            <HeaderInnerCloned />
-            <PageHeader title="Technology Service" subTitle="Service Details" />
+            <Header />
+            <HeaderCloned />
+            <PageHeader title="ERP Systems" subTitle="Service Details" />
             <ServiceDetails />
             <MailTwo />
             <Footer />

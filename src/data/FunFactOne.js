@@ -33,30 +33,28 @@ const funFactOneData = {
     accordionData: [
         {
             id: 1,
-            header: 'Maecenas facilisis erat id odio',
-            content: " There are many variations of passages of is psum available, but the majority have suffered alteration in some we form, by injected humour,"
+            header: 'Streamlined Project Management',
+            content: "Our platform offers a seamless project management experience, enabling teams to collaborate effectively and deliver projects on time."
         },
         {
             id: 2,
-            header: ' Phasellus et vehicula nulla',
-            content: " There are many variations of passages of is psum available, but the majority have suffered alteration in some we form, by injected humour,"
+            header: 'Customer-Centric Approach',
+            content: "We prioritize customer satisfaction by tailoring our solutions to meet unique client needs, ensuring long-lasting partnerships."
         },
         {
             id: 3,
-            header: 'Maecenas malesuada',
-            content: " There are many variations of passages of is psum available, but the majority have suffered alteration in some we form, by injected humour,"
+            header: 'Innovative Technology',
+            content: "We leverage the latest technologies to provide cutting-edge solutions that drive efficiency and foster innovation."
         },
         {
             id: 4,
-            header: ' Why you join our team',
-            content: " There are many variations of passages of is psum available, but the majority have suffered alteration in some we form, by injected humour,"
-
+            header: 'Join Our Dynamic Team',
+            content: "Be part of a team that values creativity, collaboration, and continuous growth. Together, we achieve remarkable results."
         },
         {
             id: 5,
-            header: 'Maecenas malesuada',
-            content: " There are many variations of passages of is psum available, but the majority have suffered alteration in some we form, by injected humour,"
-
+            header: 'Commitment to Excellence',
+            content: "We are dedicated to delivering excellence in every aspect of our work, setting benchmarks for quality and reliability."
         },
     ]
 

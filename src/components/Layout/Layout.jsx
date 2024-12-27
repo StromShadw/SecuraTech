@@ -84,7 +84,7 @@ const Layout = ({ children, pageTitle }) => {
   return (
     <>
       <CustomCursor />
-      {/* <Preloader /> */}
+      <Preloader />
       <div className='page-wrapper'>
         {children}
       </div>
