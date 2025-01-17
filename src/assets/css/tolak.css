@@ -3400,7 +3400,7 @@ h6 {
 
 .footer-widget--about {
   position: relative;
-  margin: -115px 0 0;
+  margin: -90px 0 0;
   padding: 0;
   max-width: 327px;
   background-color: var(--tolak-darkblue, #010433);
@@ -6892,7 +6892,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 
 .funfact-one__accordion {
-  /* border: 1px solid var(--tolak-border-color, #dddddd); */
+  border: 1px solid var(--tolak-border-color, #dddddd);
   border-radius: 5px;
   overflow: hidden;
 }
@@ -16633,8 +16633,9 @@ color: #ffffff;
 
 .about-one__image img {
   height: 400px;
-  /* object-fit: cover; */
-  min-width: 91.5%;
+  object-fit: cover;
+  /* min-width: 91.5%; */
+  width: 92%;
   margin-top: 80px;
 }
 
@@ -26646,6 +26647,7 @@ body.boxed-wrapper .main-slider-one__floating-text {
 
 .why-choose-three__image img {
   max-width: 100%;
+  margin-top: 3%;
 }
 
 @media (min-width: 1200px) {

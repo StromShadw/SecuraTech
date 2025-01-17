@@ -1,5 +1,5 @@
 import image1 from '@/assets/images/team/team-1-1.jpg'
-import image2 from '@/assets/images/team/team-1-2.jpg'
+import image2 from '@/assets/images/team/team-1-2.png'
 import image3 from '@/assets/images/team/team-1-3.jpg'
 import image4 from '@/assets/images/team/team-1-4.jpg'
 import image5 from '@/assets/images/team/team-1-5.jpg'
@@ -52,48 +52,6 @@ const teamOneData = {
 
 
         },
-        {
-            id: 4,
-            image: image4,
-            socials: [
-                { id: 1, icon: faFacebookF, link: "https://facebook.com", name: "Facebook" },
-                { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
-                { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
-                { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
-            ], title: "Vivek Shah",
-            href: "team-details",
-            designation: "CEO & Founder"
-
-
-        },
-        {
-            id: 5,
-            image: image5,
-            socials: [
-                { id: 1, icon: faFacebookF, link: "https://facebook.com", name: "Facebook" },
-                { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
-                { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
-                { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
-            ], title: "Jatin Vyas",
-            href: "team-details",
-            designation: "Technical Head"
-
-
-        },
-        {
-            id: 6,
-            image: image6,
-            socials: [
-                { id: 1, icon: faFacebookF, link: "https://facebook.com", name: "Facebook" },
-                { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
-                { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
-                { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
-            ], title: "Urmi Shah",
-            href: "team-details",
-            designation: "Head, Sales & Marketing"
-
-
-        }
     ]
 
 

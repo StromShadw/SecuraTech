@@ -102,8 +102,8 @@ const navItems = [
     href: "/services",
     subNavItems: [
       { id: 1, name: "Web Development", href: "/web-development" },
-      { id: 2, name: "Mobile Application Devlopement", href: "/full-stack-development" },
-      { id: 3, name: "Full Stack Development", href: "#" },
+      { id: 2, name: "Mobile Application Devlopement", href: "/mobile-application-development" },
+      { id: 3, name: "Full Stack Development", href: "/full-stack-development" },
       { id: 4, name: "Web Designing", href: "/web-designing" },
       { id: 5, name: "ERP Systems", href: "/erp-systems" },
       { id: 6, name: "CRM Systems", href: "/crm/systems" },

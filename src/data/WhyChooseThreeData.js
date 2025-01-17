@@ -1,5 +1,5 @@
 // import bg from "@/assets/images/backgrounds/why-choose-3-bg.png";
-import image1 from "@/assets/images/resources/why-choose-3-1.jpg";
+import image1 from "@/assets/images/resources/why-choose-3-2.jpg";
 
 const whyChooseThreeData = {
     // bg,

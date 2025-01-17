@@ -9,7 +9,7 @@ import React from 'react';
 
 
 export const metadata = {
-    title: "SecuraTech || Contact",
+    title: "Contact || SecuraTech",
 };
 
 const page = () => {

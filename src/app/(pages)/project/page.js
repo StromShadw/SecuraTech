@@ -10,7 +10,7 @@ import ProjectOne from "@/components/ProjectOne/ProjectOne.jsx";
 import React from "react";
 
 export const metadata = {
-  title: "Project Page || SecuraTech",
+  title: "Our Protfolio || SecuraTech",
 };
 
 const projectPage = () => {
@@ -18,7 +18,7 @@ const projectPage = () => {
     <Layout >
       <Header />
       <HeaderCloned />
-      <PageHeader title='Project Page' subTitle='Project' />
+      <PageHeader title='Our Protfolio' subTitle='Project' />
       <ProjectTwo />
       <MailTwo />
       <Footer />

@@ -40,7 +40,6 @@ const Footer = () => {
                                             <span className="sr-only">{title}</span>
                                         </Link>)
                                 }
-
                             </div>
                             <div className="footer-widget__image">
                                 <Image src={footerAbout} alt="tolak" />
@@ -85,7 +84,7 @@ const Footer = () => {
                         <div className="footer-widget footer-widget--links footer-widget--last">
                             <h2 className="footer-widget__title">Quick Link</h2>
                             <ul className="list-unstyled footer-widget__links">
-                                {quickLinks.map(({ id, title, href }) => (
+                                {bottomLinks.map(({ id, title, href }) => (
                                     <li key={id}>
                                         <Link href={href}>{title}</Link>
                                     </li>
@@ -104,7 +103,7 @@ const Footer = () => {
                                 &copy; Copyright <span className="dynamic-year">{year}</span> by Secura Cyber Tech.
                             </p>
                         </Col>
-                        <Col md={6} >
+                        {/* <Col md={6} >
                             <ul className="list-unstyled main-footer__bottom__list">
                                 {bottomLinks.map(({ id, title, href }) => (
                                     <li key={id}>
@@ -114,7 +113,7 @@ const Footer = () => {
 
 
                             </ul>
-                        </Col>
+                        </Col> */}
                     </Row>
                 </Container>
             </div>

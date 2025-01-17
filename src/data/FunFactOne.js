@@ -33,13 +33,13 @@ const funFactOneData = {
     accordionData: [
         {
             id: 1,
-            header: 'Streamlined Project Management',
-            content: "Our platform offers a seamless project management experience, enabling teams to collaborate effectively and deliver projects on time."
+            header: 'What We Obesrve',
+            content: "Delivering and implementing the best of breed services and processes from around the world will help businesses achieve their goals"
         },
         {
             id: 2,
-            header: 'Customer-Centric Approach',
-            content: "We prioritize customer satisfaction by tailoring our solutions to meet unique client needs, ensuring long-lasting partnerships."
+            header: 'Our Purpose',
+            content: "To offer our clients the best digital transformation services possible, enabling them to complete their digital upgrade and maintain the top spot in their respective industries."
         },
         {
             id: 3,

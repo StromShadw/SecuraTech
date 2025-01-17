@@ -112,12 +112,13 @@ const footerData = {
     subHref2: "tel",
   },
   widgetSocial,
-  services: [
-    { id: 1, href: "#", title: "Why choose us" },
-    { id: 2, href: "#", title: "Our Service" },
-    { id: 3, href:"#", title: "Partners" },
-    { id: 4, href: "#", title: "Core values" },
-    { id: 5, href: "#", title: "Our projects" },
+   services: [
+    { id: 1, href: "full-stack-development", title: "Full Stack Development" },
+    { id: 2, href: "web-development", title: "Web Development" },
+    { id: 3, href:"web-designing", title: "Web Designing" },
+    { id: 4, href: "mobile-application-development", title: "Mobile Application Development" },
+    { id: 5, href: "erp-systems", title: "ERP Systems" },
+    { id: 6, href: "crm-systems", title: "CRM Systems" },
   ],
   quickLinks: [
     { id: 1, href: "#", title: "Gallery" },
@@ -127,10 +128,9 @@ const footerData = {
     { id: 5, href: "#", title: "News" },
   ],
   bottomLinks: [
-    { id: 1, href: "#",title: "About Us" },
-    { id: 2, href: "#", title: "Services" },
-    { id: 3, href:"#", title: "News" },
-    { id: 4, href: "#", title: "Portfolio" },
+    { id: 1, href: "/about",title: "About Us" },
+    { id: 2, href: "/services", title: "Services" },
+    { id: 4, href: "/project", title: "Portfolio" },
   ],
 };
 

@@ -49,7 +49,6 @@ const page = () => {
       <TeamOne />
       <Mail />
       <Footer />
-
       {/* <FeatureTwo />
       <OurSolution /> 
       <PojectOne /> */}

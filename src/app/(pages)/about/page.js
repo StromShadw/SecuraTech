@@ -13,7 +13,7 @@ import FunFactOne from '@/components/FunFactOne/FunFactOne';
 import TestimonialsFour from '@/components/TestimonialsFour/TestimonialsFour';
 
 export const metadata = {
-    title: "About",
+    title: "About || Secura Tech",
 };
 
 const page = () => {

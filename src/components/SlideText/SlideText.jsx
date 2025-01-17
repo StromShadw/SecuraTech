@@ -3,7 +3,7 @@ import React from 'react';
 const Jarallax = dynamic(() => import("@/components/Jarallax/Jarallax"), {
     ssr: false,
 });
-import JarallaxImage from '../Jarallax/JarallaxImage';
+// import JarallaxImage from '../Jarallax/JarallaxImage';
 import dynamic from 'next/dynamic';
 const { bg, lists } = slideTextData
 
@@ -17,10 +17,9 @@ const SlideText = ({ pageTitle }) => {
 
             <div className="slide-text__wrap">
                 <ul className="slide-text__list list-unstyled">
-                    {
-                        lists.map((l, i) => <li key={i}>{l}</li>)
-                    }
-
+                    {[...lists, ...lists].map((l, i) => (
+                        <li key={i}>{l}</li>
+                    ))}
                 </ul>
             </div>
         </section>

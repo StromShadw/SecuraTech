@@ -30,7 +30,7 @@ const testimonialsFourData = {
         {
             id: 3,
             image: cardImage3,
-            content: "Impressive website with much attention to every small detail. Secura’s developers has great technical skillset which makes them the best in the industry. Also, great support and awesome staff",
+            content: "Impressive website with much attention to every small detail. Secura's developers has great technical skillset which makes them the best in the industry. Also, great support and awesome staff",
             name: "Samuel Udoh",
             // designation: "Founder",
             rating: ["icofont-star", "icofont-star", "icofont-star", "icofont-star"]
